@@ -1,6 +1,6 @@
 # 📊 Data Marketplace DApp (Soroban - Stellar)
 
-<img width="1359" height="877" alt="image" src="https://github.com/user-attachments/assets/5b832cba-0502-4d51-8f49-3f645c8d3bf3" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/7dc28900-1dd4-41d4-b1bd-a6765c6721fb" />
 
 
 ## 🚀 Project Description
